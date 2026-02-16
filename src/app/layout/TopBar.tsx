@@ -10,7 +10,7 @@ export default function TopBar({ onShowMath }: { onShowMath: () => void }) {
           </div>
           <div className="leading-tight">
             <div className="text-sm font-semibold">Optimización de Dieta Económica</div>
-            <div className="text-xs text-slate-500">Modelo A·x + restricciones</div>
+            <div className="text-xs text-slate-500">Modelo A·x</div>
           </div>
         </div>
 
